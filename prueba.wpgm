@@ -1,0 +1,7 @@
+import room.*
+import wollok.game.*
+
+program prueba {
+    escena.inicializar()
+    game.start()
+}
