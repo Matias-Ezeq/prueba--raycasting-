@@ -1962,3 +1962,4 @@
 {"level":"info","message":"⌛ Validating prueba.wpgm","timeElapsed":507,"timestamp":"2024-10-16T13:53:24.712Z"}
 {"level":"info","message":"⌛ Validating jugador.wlk","timeElapsed":342,"timestamp":"2024-10-16T13:53:25.055Z"}
 {"level":"info","message":"⌛ Validating room.wlk","timeElapsed":400,"timestamp":"2024-10-16T13:53:25.456Z"}
+{"exitCode":"SIGINT","level":"info","message":"👾 Game executed prueba.prueba on /run/media/matias/KINGSTON/unahur/2024/programacion-con-objetos/prueba--raycasting-","timeElapsed":375630,"timestamp":"2024-10-16T13:53:53.951Z"}
